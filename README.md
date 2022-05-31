@@ -37,7 +37,8 @@ npm install
 - Copy ```.env.example``` and rename to ```.env``` then fill the data
 
 ```
-NEXT_PUBLIC_API_URL=backend_url_example
+NEXT_BACKEND_URL= https://shopedia-backend.herokuapp.com (api backend)
+CALLBACK_URL = https://shopediaweb.netlify.app (website domain)
 ```
 
 - Type ``` npm run dev ``` To Start The Project
