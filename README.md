@@ -19,7 +19,7 @@ Repository Frontend - Shopedia
 - Clone This Repo
 
 ```
-git clone https://github.com/rintosaputro/shopedia-frontend.git
+https://github.com/marsellavaleria19/shopedia-frontend.git
 ```
 
 - Go To Folder Repo
@@ -48,13 +48,13 @@ NEXT_PUBLIC_API_URL=backend_url_example
 
   <span>
   <a href="https://ibb.co/xC39Cdn">
-    <img src="https://i.ibb.co/yfVvf7z/Screenshot-310.png" alt="https://i.ibb.co/yfVvf7z/Screenshot-310.png" width="415">
+    <img src="https://user-images.githubusercontent.com/44119106/171139820-4fa2bf13-4b10-4b7e-9538-58750518e311.png" alt="https://i.ibb.co/yfVvf7z/Screenshot-310.png" width="415">
   </a>
   <a href="https://ibb.co/6r44zM7">
-    <img src="https://i.ibb.co/PF55KLv/Screenshot-312.png" alt="https://i.ibb.co/PF55KLv/Screenshot-312.png" width="415">
+    <img src="https://user-images.githubusercontent.com/44119106/171140225-c62f8060-b69c-477a-b142-7921adde5e9e.png" alt="https://i.ibb.co/PF55KLv/Screenshot-312.png" width="415">
   </a>
   <a href="https://ibb.co/pf92XjL">
-    <img src="https://i.ibb.co/gSBygZR/Screenshot-311.png" alt="https://i.ibb.co/gSBygZR/Screenshot-311.png" width="415">
+    <img src="https://user-images.githubusercontent.com/44119106/171141040-f1042b36-9334-4a71-90ea-c4a231658d88.png" width="415">
   </a>
     <br/>
   </span>
@@ -63,7 +63,7 @@ NEXT_PUBLIC_API_URL=backend_url_example
 
 ## ✍️ Shopedia - Backend Repository
 
-<https://github.com/rintosaputro/shopedia-backend>
+<https://github.com/marsellavaleria19/shopedia-backend>
 
 <br>
 
